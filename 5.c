@@ -10,9 +10,7 @@ void main(){
 		scanf("%f",&f1);
 		t1 += f1;
 	}
-	
 	x = 1;
-	
 	while(x<=5){
 		printf("\nInforme o valor da %i* produto do 2* acumulador:",x);
 		scanf("%f",&f2);
