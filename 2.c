@@ -10,5 +10,5 @@ void main(){
 		}
 		x++;
 	}
-	getchar();
+	getchar;
 }
