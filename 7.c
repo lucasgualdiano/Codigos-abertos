@@ -12,7 +12,6 @@ void main(){
 			mpeso = p;
 			pmp = x;
 		}
-		
 		x++;
 	}
 	printf("\nA pessoa mais pesada e a %d* com peso de %.2f Kg",pmp, mpeso);
