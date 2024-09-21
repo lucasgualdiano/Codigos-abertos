@@ -14,7 +14,6 @@ void main(){
 	}
 	
 	f = l*1.15;
-	
 	printf("\nValor total da conta: R$%.2f",l);
 	printf("\nValor a pagar da conta: R$%.2f",f);
 	
