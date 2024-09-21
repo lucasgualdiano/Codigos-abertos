@@ -19,7 +19,6 @@ void main(){
 	}
 	soma = somaluz + somaagua;
 	media = soma/10;
-	
 	printf("\nValor total das contas: R$%.2f", soma);
 	printf("\nValor medio das contas: R$%.2f", media);
 	getchar();	
