@@ -17,6 +17,7 @@ void main(){
 	somaagua += a;
 	x++;
 	}
+	
 	soma = somaluz + somaagua;
 	media = soma/10;
 	
