@@ -19,6 +19,7 @@ void main(){
 		t2 += f2;
 		x++;
 	}
+	
 	f = t1 + t2;
 	
 	printf("\nValor do acumulador 1: R$%.2f",t1);
