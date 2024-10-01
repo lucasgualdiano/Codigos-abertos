@@ -4,7 +4,6 @@
 void main(){
 	int x=1;
 	float v=0, v1=0, r=0;
-	
 	while(x<=8){
 		printf("\nInforme o valor da %i* cedula:",x);
 		scanf("%f",&v);
